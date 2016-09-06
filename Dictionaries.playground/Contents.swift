@@ -28,3 +28,7 @@ definition = favoriteWords["strategery"]
 
 favoriteWords["strategery"] = nil
 print(favoriteWords)
+
+var address = [422: "gates"]
+
+var home = address[422]
